@@ -8,7 +8,9 @@
 
 A hands-on look at how text can be compared by words, structure, and meaning, and how NLP techniques can be used to evaluate variation in AI-generated answers.
 
-This repository contains the Python notebook developed for my **Marketing Data Science** article, **A Practical Guide to Measuring Text Similarity**.
+This repository contains the Python notebook developed for my **Marketing Data Science** article: 
+**A Practical Guide to Measuring Text Similarity**
+https://blog.marketingdatascience.ai/a-practical-guide-to-measuring-text-similarity-b770848ce48f
 
 ## Overview
 
